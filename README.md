@@ -81,13 +81,13 @@ chmod +x download_files.sh
  <p><img src="images/01.jpg" alt="inbound_security" width="800px"></p>
  Once the cluster is running, you can access the Spark Web UI:
     - Spark Master: http://<your-azure-vm-ip>:9090
- <p><img src="images/07.jpg" alt="job_success" width="800px"></p>
+ <p><img src="images/07..jpg" alt="job_success" width="800px"></p>
 
 ## Results
 
 The processed data and visualizations are saved in the output/ directory, including:
     - Visa issuance trends by continent
-     <p><img src="images/13.jpg" alt="by_continent" width="800px"></p>
+     <p><img src="images/13..jpg" alt="by_continent" width="800px"></p>
     - Top 10 countries in 2017
      <p><img src="images/12.by_country.jpg" alt="architecture_diagram" width="800px"></p>
     - Yearly Visa issuance world map
